@@ -1,0 +1,22 @@
+{
+  "background_color": "#5A45FF",
+  "description": "My app powered by Draftbit",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Royal Aquaria",
+  "short_name": "Royal Aquaria",
+  "start_url": "/?utm_source=web_app_manifest",
+  "theme_color": "#000000",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.draftbit.untitledapp"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.draftbit.untitledapp",
+      "id": "com.draftbit.untitledapp"
+    }
+  ],
+  "prefer_related_applications": true
+}
